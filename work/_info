@@ -1,0 +1,542 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1/SalaTestBench/Test_Unit_tb
+Pbasic_package
+Z0 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z1 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z2 DPx4 ieee 9 math_real 0 22 gNk<PdFJ<XNPcfef`f?Z81
+Z3 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 96
+Z6 w1645629740
+Z7 dC:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit
+Z8 8C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/basic_package.vhd
+Z9 FC:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/basic_package.vhd
+l0
+Z10 L15 1
+VCh4mcUEb5J:KdAdGDdd]i0
+!s100 82[3bhAW=NI`1YI`;hEfS2
+Z11 OV;C;2020.1;71
+32
+b1
+Z12 !s110 1645632751
+!i10b 1
+Z13 !s108 1645632751.000000
+Z14 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/basic_package.vhd|
+Z15 !s107 C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/basic_package.vhd|
+!i113 1
+Z16 o-work work -2002 -explicit
+Z17 tExplicit 1 CvgOpt 0
+Bbody
+Z18 DPx4 work 13 basic_package 0 22 Ch4mcUEb5J:KdAdGDdd]i0
+R0
+R1
+R2
+R3
+R4
+R5
+!i122 96
+l0
+L175 1
+V=K7SSWIJOm8<Wa2@Rjd1L2
+!s100 Xh<iOJo0>C=VTXmI_a6GS1
+R11
+32
+R12
+!i10b 1
+R13
+R14
+R15
+!i113 1
+R16
+R17
+Eclock_divider
+Z19 w1636378183
+R2
+Z20 DPx4 work 13 basic_package 0 22 [ZZ5e[lRVo?;TndncScID2
+R3
+R0
+R1
+R4
+R5
+!i122 44
+R7
+Z21 8C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/clock_divider.vhd
+Z22 FC:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/clock_divider.vhd
+l0
+L19 1
+V[4U5XoMSm3z`0[@l^l?SS2
+!s100 ;a3UANXj^faf99FQn48ei2
+R11
+32
+Z23 !s110 1645451449
+!i10b 1
+Z24 !s108 1645451448.000000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/clock_divider.vhd|
+Z26 !s107 C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/clock_divider.vhd|
+!i113 1
+R16
+R17
+Abehavioral
+R2
+R20
+R3
+R0
+R1
+R4
+R5
+DEx4 work 13 clock_divider 0 22 [4U5XoMSm3z`0[@l^l?SS2
+!i122 44
+l59
+L42 84
+VoPTXiY<1Wl=mCEEXOTTPo3
+!s100 ^kjzKV4n@MohGZ^YhOf_W1
+R11
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R16
+R17
+Eclock_divider_2
+R6
+R2
+R18
+R3
+R0
+R1
+R4
+R5
+!i122 101
+R7
+Z27 8C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/clock_divider_2.vhd
+Z28 FC:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/clock_divider_2.vhd
+l0
+Z29 L16 1
+Vc^HfHL^3<<aDm5EQQZnCD1
+!s100 ZX7lYMBm^P;0mb:=BQ?im2
+R11
+32
+Z30 !s110 1645632754
+!i10b 1
+Z31 !s108 1645632753.000000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/clock_divider_2.vhd|
+Z33 !s107 C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/clock_divider_2.vhd|
+!i113 1
+R16
+R17
+Abehavioral
+R2
+R18
+R3
+R0
+R1
+R4
+R5
+DEx4 work 15 clock_divider_2 0 22 c^HfHL^3<<aDm5EQQZnCD1
+!i122 101
+l51
+L42 59
+VJZF;3F`i:_TKP2J<mXf1E0
+!s100 F:?SeTWh0D@7j5gXk[`YF2
+R11
+32
+R30
+!i10b 1
+R31
+R32
+R33
+!i113 1
+R16
+R17
+Eclock_divider_md
+Z34 w1645459350
+R0
+R1
+R4
+R5
+!i122 81
+R7
+Z35 8C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/clock_divider_md.vhd
+Z36 FC:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/clock_divider_md.vhd
+l0
+L13 1
+V@3o<BGiD^33UOm_2I0MFo3
+!s100 [X=4jYf418NWWz1cQaPM:1
+R11
+32
+Z37 !s110 1645459565
+!i10b 1
+Z38 !s108 1645459565.000000
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/clock_divider_md.vhd|
+Z40 !s107 C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/clock_divider_md.vhd|
+!i113 1
+R16
+R17
+Abehavior
+R0
+R1
+R4
+R5
+DEx4 work 16 clock_divider_md 0 22 @3o<BGiD^33UOm_2I0MFo3
+!i122 81
+l43
+L34 88
+VAC=fTQ4=>V?PVlJjdgJ]92
+!s100 3GXbgIWPB`gcT;<UF6>@n1
+R11
+32
+R37
+!i10b 1
+R38
+R39
+R40
+!i113 1
+R16
+R17
+Effd
+Z41 w1636366341
+R3
+R0
+R1
+R4
+R5
+!i122 97
+R7
+Z42 8C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/FFD.vhd
+Z43 FC:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/FFD.vhd
+l0
+R10
+VOY:h5l[WhGfB9E:c5IaGl3
+!s100 gC6g0dnUE<al=FgAdF7PI3
+R11
+32
+Z44 !s110 1645632752
+!i10b 1
+R13
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/FFD.vhd|
+Z46 !s107 C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/FFD.vhd|
+!i113 1
+R16
+R17
+Abehavior
+R3
+R0
+R1
+R4
+R5
+DEx4 work 3 ffd 0 22 OY:h5l[WhGfB9E:c5IaGl3
+!i122 97
+l29
+L27 16
+VQQ9i?G`3Vnf;8U`LP3oM31
+!s100 5D3MQfQ1@a1Wkl7ID2fzB3
+R11
+32
+R44
+!i10b 1
+R13
+R45
+R46
+!i113 1
+R16
+R17
+Pfootpackage
+R2
+R18
+R0
+R1
+R3
+R4
+R5
+!i122 98
+R19
+R7
+8C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/FOOTpackage.vhd
+FC:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/FOOTpackage.vhd
+l0
+R29
+Vm3`[5kdhi=zU7N?NjPe6E2
+!s100 UHen6fJ2lEgHi5Rz@dVYo2
+R11
+32
+R44
+!i10b 1
+Z47 !s108 1645632752.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/FOOTpackage.vhd|
+!s107 C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/FOOTpackage.vhd|
+!i113 1
+R16
+R17
+Ppaperopackage
+Z48 DPx4 work 11 footpackage 0 22 m3`[5kdhi=zU7N?NjPe6E2
+R2
+R18
+R0
+R1
+R3
+R4
+R5
+!i122 99
+R41
+R7
+Z49 8C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/paperoPackage.vhd
+Z50 FC:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/paperoPackage.vhd
+l0
+R10
+V>QN;9HZHL<SS@?ekk^I[83
+!s100 W_CKhkzDIeck0bbiKWG7N2
+R11
+32
+b1
+Z51 !s110 1645632753
+!i10b 1
+R47
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/paperoPackage.vhd|
+Z53 !s107 C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/paperoPackage.vhd|
+!i113 1
+R16
+R17
+Bbody
+Z54 DPx4 work 13 paperopackage 0 22 >QN;9HZHL<SS@?ekk^I[83
+R48
+R2
+R18
+R0
+R1
+R3
+R4
+R5
+!i122 99
+l0
+L551 1
+Vbi@[L>T1l3Mm@iah=Sgno1
+!s100 V4MnJY5QC17NL>Gn9jhKA3
+R11
+32
+R51
+!i10b 1
+R47
+R52
+R53
+!i113 1
+R16
+R17
+Eprbs32
+R41
+R48
+R2
+R18
+R54
+R3
+R0
+R1
+R4
+R5
+!i122 100
+R7
+Z55 8C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/PRBS32.vhd
+Z56 FC:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/PRBS32.vhd
+l0
+R29
+VGD6d6JemJC72o1D46YV1Y3
+!s100 E2gkWmHhh1oM3^NDk[ie;2
+R11
+32
+R51
+!i10b 1
+R31
+Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/PRBS32.vhd|
+Z58 !s107 C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/PRBS32.vhd|
+!i113 1
+R16
+R17
+Abehavior
+R48
+R2
+R18
+R54
+R3
+R0
+R1
+R4
+R5
+DEx4 work 6 prbs32 0 22 GD6d6JemJC72o1D46YV1Y3
+!i122 100
+l30
+Z59 L26 43
+VDoDOmH2iQ8_zQDg^i_JlB2
+!s100 >MO]7Q9zLfKE8ASdZ3iCC0
+R11
+32
+R51
+!i10b 1
+R31
+R57
+R58
+!i113 1
+R16
+R17
+Eprbs8
+R41
+R48
+R2
+R20
+R54
+R3
+R0
+R1
+R4
+R5
+!i122 39
+R7
+Z60 8C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/PRBS8.vhd
+Z61 FC:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/PRBS8.vhd
+l0
+R29
+Vk9o]OMSb=L=j3;0Kae^hg2
+!s100 A`eQi9niUVlVokm<C]]]81
+R11
+32
+Z62 !s110 1644568614
+!i10b 1
+Z63 !s108 1644568613.000000
+Z64 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/PRBS8.vhd|
+Z65 !s107 C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/logic/PRBS8.vhd|
+!i113 1
+R16
+R17
+Abehavior
+R48
+R2
+R20
+R54
+R3
+R0
+R1
+R4
+R5
+DEx4 work 5 prbs8 0 22 k9o]OMSb=L=j3;0Kae^hg2
+!i122 39
+l30
+R59
+Vln;jYYhQ0FFj;DCVKNdYe2
+!s100 IJ^<6?0f2;_Uf;ioULT`53
+R11
+32
+R62
+!i10b 1
+R63
+R64
+R65
+!i113 1
+R16
+R17
+Etrigtestunit
+Z66 w1645780801
+R48
+R2
+R18
+R54
+R3
+R0
+R1
+R4
+R5
+!i122 156
+R7
+Z67 8C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/trigTestUnit.vhd
+Z68 FC:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/trigTestUnit.vhd
+l0
+L22 1
+VF7?DoVzdz85`ZlGn>@dj82
+!s100 zBcOBOz=V8:hc;2i8S2Ib1
+R11
+32
+Z69 !s110 1645781094
+!i10b 1
+Z70 !s108 1645781094.000000
+Z71 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/trigTestUnit.vhd|
+Z72 !s107 C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/trigTestUnit.vhd|
+!i113 1
+R16
+R17
+Abehavior
+R48
+R2
+R18
+R54
+R3
+R0
+R1
+R4
+R5
+DEx4 work 12 trigtestunit 0 22 F7?DoVzdz85`ZlGn>@dj82
+!i122 156
+l52
+L41 104
+VKjJ?_8ded4cS<M[R3?k[_2
+!s100 B2fmGKCNHe^WU4gZdGh@51
+R11
+32
+R69
+!i10b 1
+R70
+R71
+R72
+!i113 1
+R16
+R17
+Etrigtestunit_tb
+Z73 w1646219147
+R4
+R5
+!i122 157
+R7
+Z74 8C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/trigTestUnit_tb.vhd
+Z75 FC:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/trigTestUnit_tb.vhd
+l0
+L5 1
+V2ZU6jY`lV7l0Kn:CYg?F<0
+!s100 @=HLF`>TimcP9<mITGD^A0
+R11
+32
+Z76 !s110 1646219154
+!i10b 1
+Z77 !s108 1646219154.000000
+Z78 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/trigTestUnit_tb.vhd|
+Z79 !s107 C:/intelFPGA_lite/20.1/Tirocinio/trigTestUnit/trigTestUnit_tb.vhd|
+!i113 1
+R16
+R17
+Abehavior
+R4
+R5
+Z80 DEx4 work 15 trigtestunit_tb 0 22 2ZU6jY`lV7l0Kn:CYg?F<0
+!i122 157
+l38
+Z81 L9 217
+VB>ij28J`TE`Af;nh@ASom2
+!s100 01<N@7gI1=:Lge0HN[NNG0
+R11
+32
+R76
+!i10b 1
+R77
+R78
+R79
+!i113 1
+R16
+R17
